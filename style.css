@@ -1,0 +1,101 @@
+body{
+
+background-color: #90ee90;
+}
+
+.oszlop1{
+
+    text-align: center;
+}
+
+.jobbra{
+
+    margin-left: 550px;
+
+}
+
+.pulimeret{
+width: 200px;
+
+}
+
+.kistabla{
+
+    width: 700px;
+    margin-left: 0px;
+
+}
+
+hr{
+    border: 2px solid #FFFF00;
+
+}
+
+.sarga{
+
+    width: 140px;
+    height: 100px;
+    background-color: #FFFF00;
+
+}
+
+table{  
+
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: justify;
+}
+
+.pulik{
+
+float: left;
+
+}
+
+a,a:visited{
+
+text-decoration: none;
+color: #808080;
+
+}
+
+#tortenete{
+    color: #FFFF00;
+}
+#kulleme{
+    color: #FFFF00;
+}
+#szinei{
+    color: #FFFF00;
+}
+#jelleme{
+    color: #FFFF00;
+}
+#meretei{
+    color: #FFFF00;
+}
+#rokonfajtak{
+    color: #FFFF00;
+}
+#hires{
+    color: #FFFF00;
+}
+
+.nagybetus{
+    text-transform: uppercase;
+}
+
+.jobbkep{
+    float: right;
+    width: 150px;
+    margin-left: 40px;
+}
+
+.kozepre{
+text-align: center;
+
+}
+
+.kep{
+    width: 500px;
+}
